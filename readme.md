@@ -17,7 +17,7 @@ To replicate or further explore the project, you will need the following compone
 
 - Arduino Uno board
 - ESP NodeMCU modules (2 units)
-- Motion sensor (e.g., PIR sensor)
+- Motion sensor - Passive Infrared Sensor
 - Jumper wires
 - Breadboard (optional, for prototyping)
 - USB cables for power and programming
@@ -43,6 +43,16 @@ Follow these steps to set up the motion detection system:
 8. Open the **server_module.ino** file and upload the code to the server NodeMCU module.
 
 9. Disconnect the NodeMCU modules from the computer and power them using appropriate power sources.
+
+## Circuit Diagram
+### Client Module
+
+![image](https://github.com/informsarfu/Motion-detection-using-ESP-modules/assets/78136256/9eb83d96-d0d8-46c5-97c8-9bbe8198aa9f)
+
+### Server Module
+
+![image](https://github.com/informsarfu/Motion-detection-using-ESP-modules/assets/78136256/14bd9016-019c-4de8-b30f-31d91051d9aa)
+
 
 ## Usage
 

@@ -1,14 +1,3 @@
-/*
-   I have made this project using
-
-   ESP8266 module,PIR module and a piezo buzzer.
-
-   Watch out it's DIY project video on my YouTube Channel
-
-   Search for "techiesms" on YouTube.
-
-*/
-
 #include <ESP8266WiFi.h>
 #include <ESP8266HTTPClient.h>
 
